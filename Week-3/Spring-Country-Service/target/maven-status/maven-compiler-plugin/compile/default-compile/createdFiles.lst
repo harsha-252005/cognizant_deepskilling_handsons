@@ -1,0 +1,5 @@
+com\fse\country\CountryController.class
+com\fse\country\CountryRepository.class
+com\fse\country\CountryApplication.class
+com\fse\country\CountryNotFoundException.class
+com\fse\country\Country.class
